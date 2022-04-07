@@ -1,0 +1,16 @@
+PODS:
+  - DNTool (0.1.0)
+
+DEPENDENCIES:
+  - DNTool (from `../`)
+
+EXTERNAL SOURCES:
+  DNTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DNTool: 767e3a8b6981c32dca8af831a987f23e30a1e938
+
+PODFILE CHECKSUM: 8af83a5cbfed52c571fabcdef277f3fb4c7c7ab3
+
+COCOAPODS: 1.11.2
