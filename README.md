@@ -22,7 +22,7 @@ pod 'DNTool'
 
 ## Author
 
-Den Seksan, den@finnomena.com
+Den
 
 ## License
 
