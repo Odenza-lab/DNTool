@@ -7,12 +7,16 @@
 //
 
 import UIKit
+import DNTool
 
 class ViewController: UIViewController {
+
+    @IBOutlet weak var textLabel: UILabel!
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        textLabel.attributedText = "Label with under line".setUnderlineStyle
     }
 
     override func didReceiveMemoryWarning() {
